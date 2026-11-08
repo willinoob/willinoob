@@ -22,5 +22,5 @@ Je suis étudiant en 2ème année de Licence  informatique à l'**ECE**, spécia
 
 
 ### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-badabo-50ba7233b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-badabo-50ba7233b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essohanamwilliambadabo@gmail.com)
