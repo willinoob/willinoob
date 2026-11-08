@@ -1,4 +1,4 @@
-# Salut, je suis William 👋
+# Salut, je suis William aussi Willinoob  🚀
 
 Je suis étudiant en 2ème année de Licence  informatique à l'**ECE**, spécialisé en **Intelligence Artificielle, Machine Learning et Data Engineering**. Je suis passionné par la création de modèles de ML appliqués et le développement d'architectures backend robustes.
 
