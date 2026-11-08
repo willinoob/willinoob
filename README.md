@@ -20,10 +20,7 @@ Je suis étudiant en 2ème année de Licence  informatique à l'**ECE**, spécia
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📈 Mes Statistiques GitHub
-![Statistiques de Willinoob](https://github-readme-stats.vercel.app/api?username=willinoob&show_icons=true&theme=radium)
-
 
 ### 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]www.linkedin.com/in/william-badabo-50ba7233b
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/william-badabo-50ba7233b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:essohanamwilliambadabo@gmail.com)
